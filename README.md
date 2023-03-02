@@ -1,7 +1,7 @@
 # Naturale
 
-(https://github.com/Kvn0l/Naturale/blob/main/Naturale.jpg)
-(https://github.com/Kvn0l/Naturale/blob/main/Naturale - Página de Produto.jpg)
+https://github.com/Kvn0l/Naturale/blob/main/Naturale.jpg
+https://github.com/Kvn0l/Naturale/blob/main/Naturale - Página de Produto.jpg
 
 https://www.figma.com/file/wOgW4UnqP9urdqQilW0jmy/Naturale?node-id=0%3A1&t=lLrRwUp4mvIundFF-0
 
